@@ -6,6 +6,8 @@
 *.npy
 
 # Logs
+catboost_info/
+model/
 *.json
 *.csv
 *.zip
