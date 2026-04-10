@@ -9,7 +9,6 @@
 catboost_info/
 model/
 *.json
-*.csv
 *.zip
 *.png
 # Cache
