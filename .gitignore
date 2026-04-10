@@ -1,0 +1,16 @@
+# Models
+*.h5
+*.pkl
+
+# Numpy arrays
+*.npy
+
+# Logs
+*.json
+*.csv
+*.zip
+*.png
+# Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
